@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on different python programs
 - 📫 How to reach me on gmail kevinbrianndungu@gmail.com
 - 😄 Pronouns: i dont deal with this shit 
-- ⚡ Fun fact: ...https://github.com/Powerlearnproject/se-assignment-day-2-git-and-github-kevinbrianndungu
+- ⚡ Fun fact: ...
 
 <!---
 kevinbrianndungu/kevinbrianndungu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
