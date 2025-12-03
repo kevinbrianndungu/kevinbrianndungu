@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @kevinbrianndungu
 - 👀 I’m interested in developing programs, machine learning and datascience
-- 🌱 I’m currently learning software engineering in alx 
+- 🌱 I’m currently a freelance programmer 
 - 💞️ I’m looking to collaborate on different python programs
 - 📫 How to reach me on gmail kevinbrianndungu@gmail.com
-- 😄 Pronouns: i dont deal with this shit 
+- 😄 Pronouns: 
 - ⚡ Fun fact: ...
 
 <!---
